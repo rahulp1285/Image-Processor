@@ -5,8 +5,8 @@ This package will remove the exif content from the image. Metadata connected to 
 1. Latitude and longitude coordinates for the location where the photo was taken,
 2. Camera settings like ISO speed, shutter speed, focal length, aperture, white balance, and lens type.
 3. The make and model of the camera.
-4. The date and time the photo was taken.
-5. The name and build of all programs used to view or edit the photo.
+4. The date and time the photo was taken. etc
+
 
 ## Installation
 
