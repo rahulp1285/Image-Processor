@@ -26,6 +26,9 @@ In the files I have attached a Test.jpg which is of size 1.74Mb and processed ou
 I have attached high level architecture diagram for this system in drawio format.
 
 Please make sure to update tests as appropriate.
+Also I have attached the image for convenience. 
+
+![image](https://user-images.githubusercontent.com/84975334/126451040-53a59e29-c74a-423d-8213-b78d5a445b17.png)
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
